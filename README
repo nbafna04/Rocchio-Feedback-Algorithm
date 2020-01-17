@@ -1,0 +1,3 @@
+Please execute Rocchio.java where the task 1 is implemented.
+For task 2, I have created seperate Java file tfidfCalculator.java which is call given from Rocchio.java itself.
+This program assumes, Corpus index from Assignment 2.
